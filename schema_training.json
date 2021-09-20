@@ -1,0 +1,20 @@
+
+{	"SampleFileName": "SalesPred_021119920_010222.csv",
+	"LengthOfDateStampInFile": 9,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 12,
+	"ColName": {
+		"Item_Identifier" : "varchar",
+		"Item_Weight": "float",
+		"Item_Fat_Content": "varchar",
+		"Item_Visibility": "float",
+		"Item_Type": "varchar",
+		"Item_MRP": "float",
+		"Outlet_Identifier": "varchar",
+		"Outlet_Establishment_Year": "Integer",
+		"Outlet_Size": "varchar",
+		"Outlet_Location_Type": "varchar",
+		"Outlet_Type": "varchar",
+		"Item_Outlet_Sales": "float"
+	}
+}
